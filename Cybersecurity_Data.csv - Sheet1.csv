@@ -1,0 +1,6 @@
+Incident Type,Number of Cases,Severity
+Phishing,25,High
+Malware,18,High
+ Unauthorized Acess,12,Critical
+Data Breach,8,Critical
+Identity Theft,15,Medium
