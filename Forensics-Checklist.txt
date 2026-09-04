@@ -1,0 +1,7 @@
+Digital Forensics Checklist
+
+1. Preserve the original evidence.
+2. Document the evidence properly.
+3. Analyze the evidence carefully.
+4. Record all findings.
+5. Maintain the integrity of evidence.
